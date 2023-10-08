@@ -1,5 +1,7 @@
 ### Hi there 👋
-### Koffee = Life
+### Koffee = Life 
+## Python and Java Developer
+## learning  to make java in the moment
 <!--
 **MarkusG-true/MarkusG-true** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
