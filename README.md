@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Koffee = Life 
 ## Python, Java, C Developer
-## Java -> Garbage
+## Java -> 🗑️Garbage
 <!--
 **MarkusG-true/MarkusG-true** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
